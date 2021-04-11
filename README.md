@@ -1,5 +1,6 @@
-<h2>Hi, I'm Holly Schwartz! 👋🏻 </h2>
+# Hi, I'm Holly Schwartz! 👋🏻 
 
+![image](https://github.com/thehollyschwartz/thehollyschwartz/blob/main/banner.png)
 
 - 👋 Hi, I’m @thehollyschwartz
 - 👀 I’m interested in ...
